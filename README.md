@@ -61,9 +61,9 @@ https://www.loom.com/share/61e1d667fc55409c842bacdce6607f3b?sid=ce2ad0e9-02ad-45
     - Mint some tokens to your address using the `mint` function in `ERC20.sol`.
     - Deposit some tokens and receive shares in return using `Vault.sol`.
 
-## Contributors
-
-- Metacrafter Om Satapathy (Twitter: [@OmSatapathy4](https://twitter.com/OmSatapathy4))
+ ## Authors
+Metacrafter UDAY CHOPRA ---->
+[UDAY CHOPRA](https://www.linkedin.com/in/uday-chopra-86701b2b0/) 
 
 ## License
 
